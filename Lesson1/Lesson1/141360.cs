@@ -46,6 +46,17 @@ namespace ConsoleApp1
 
             Console.ReadKey();
             */
+            // Zad 3 
+            /*
+            int a = System.Convert.ToInt32(Console.ReadLine());
+            int b = System.Convert.ToInt32(Console.ReadLine());
+            int c = System.Convert.ToInt32(Console.ReadLine());
+
+            if (a + b > c && a + c > b && b + c > a) Console.WriteLine("jest trojkatem");
+            else Console.WriteLine("nie jest trojkatem");
+
+            Console.ReadKey();
+            */
 
 
             
