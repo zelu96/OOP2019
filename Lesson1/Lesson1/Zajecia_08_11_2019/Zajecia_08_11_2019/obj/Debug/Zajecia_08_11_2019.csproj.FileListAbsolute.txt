@@ -1,0 +1,7 @@
+D:\Zelechowski\Zajecia_08_11_2019\Zajecia_08_11_2019\bin\Debug\Zajecia_08_11_2019.exe.config
+D:\Zelechowski\Zajecia_08_11_2019\Zajecia_08_11_2019\bin\Debug\Zajecia_08_11_2019.exe
+D:\Zelechowski\Zajecia_08_11_2019\Zajecia_08_11_2019\bin\Debug\Zajecia_08_11_2019.pdb
+D:\Zelechowski\Zajecia_08_11_2019\Zajecia_08_11_2019\obj\Debug\Zajecia_08_11_2019.csprojAssemblyReference.cache
+D:\Zelechowski\Zajecia_08_11_2019\Zajecia_08_11_2019\obj\Debug\Zajecia_08_11_2019.csproj.CoreCompileInputs.cache
+D:\Zelechowski\Zajecia_08_11_2019\Zajecia_08_11_2019\obj\Debug\Zajecia_08_11_2019.exe
+D:\Zelechowski\Zajecia_08_11_2019\Zajecia_08_11_2019\obj\Debug\Zajecia_08_11_2019.pdb
